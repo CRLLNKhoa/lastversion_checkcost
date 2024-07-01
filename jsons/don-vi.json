@@ -1,0 +1,230 @@
+[
+    {
+        "label": "<1k",
+        "value": "1"
+    },
+    {
+        "label": "K",
+        "value": "1000"
+    },
+    {
+        "label": "M",
+        "value": "1000000"
+    },
+    {
+        "label": "B",
+        "value": "1000000000"
+    },
+    {
+        "label": "T",
+        "value": "1000000000000"
+    },
+    {
+        "label": "aa",
+        "value": "1E+15"
+    },
+    {
+        "label": "ab",
+        "value": "1E+18"
+    },
+    {
+        "label": "ac",
+        "value": "1E+21"
+    },
+    {
+        "label": "ad",
+        "value": "1E+24"
+    },
+    {
+        "label": "ae",
+        "value": "1E+27"
+    },
+    {
+        "label": "af",
+        "value": "1E+30"
+    },
+    {
+        "label": "ag",
+        "value": "1E+33"
+    },
+    {
+        "label": "ah",
+        "value": "1E+36"
+    },
+    {
+        "label": "ai",
+        "value": "1E+39"
+    },
+    {
+        "label": "aj",
+        "value": "1E+42"
+    },
+    {
+        "label": "ak",
+        "value": "1E+45"
+    },
+    {
+        "label": "al",
+        "value": "1E+48"
+    },
+    {
+        "label": "am",
+        "value": "1E+51"
+    },
+    {
+        "label": "an",
+        "value": "1E+54"
+    },
+    {
+        "label": "ao",
+        "value": "1E+57"
+    },
+    {
+        "label": "ap",
+        "value": "1E+60"
+    },
+    {
+        "label": "aq",
+        "value": "1E+63"
+    },
+    {
+        "label": "ar",
+        "value": "1E+66"
+    },
+    {
+        "label": "as",
+        "value": "1E+69"
+    },
+    {
+        "label": "at",
+        "value": "1E+72"
+    },
+    {
+        "label": "au",
+        "value": "1E+75"
+    },
+    {
+        "label": "av",
+        "value": "1E+78"
+    },
+    {
+        "label": "aw",
+        "value": "1E+81"
+    },
+    {
+        "label": "ax",
+        "value": "1E+84"
+    },
+    {
+        "label": "ay",
+        "value": "1E+87"
+    },
+    {
+        "label": "az",
+        "value": "1E+90"
+    },
+    {
+        "label": "ba",
+        "value": "1E+93"
+    },
+    {
+        "label": "bb",
+        "value": "1E+96"
+    },
+    {
+        "label": "bc",
+        "value": "1E+99"
+    },
+    {
+        "label": "bd",
+        "value": "1E+102"
+    },
+    {
+        "label": "be",
+        "value": "1E+105"
+    },
+    {
+        "label": "bf",
+        "value": "1E+108"
+    },
+    {
+        "label": "bg",
+        "value": "1E+111"
+    },
+    {
+        "label": "bh",
+        "value": "1E+114"
+    },
+    {
+        "label": "bi",
+        "value": "1E+117"
+    },
+    {
+        "label": "bj",
+        "value": "1E+120"
+    },
+    {
+        "label": "bk",
+        "value": "1E+123"
+    },
+    {
+        "label": "bl",
+        "value": "1E+126"
+    },
+    {
+        "label": "bm",
+        "value": "1E+129"
+    },
+    {
+        "label": "bn",
+        "value": "1E+132"
+    },
+    {
+        "label": "bo",
+        "value": "1E+135"
+    },
+    {
+        "label": "bp",
+        "value": "1E+138"
+    },
+    {
+        "label": "bq",
+        "value": "1E+141"
+    },
+    {
+        "label": "br",
+        "value": "1E+144"
+    },
+    {
+        "label": "bs",
+        "value": "1E+147"
+    },
+    {
+        "label": "bt",
+        "value": "1E+150"
+    },
+    {
+        "label": "bu",
+        "value": "1E+153"
+    },
+    {
+        "label": "bv",
+        "value": "1E+156"
+    },
+    {
+        "label": "bw",
+        "value": "1E+159"
+    },
+    {
+        "label": "bx",
+        "value": "1E+162"
+    },
+    {
+        "label": "by",
+        "value": "1E+165"
+    },
+    {
+        "label": "bz",
+        "value": "1E+168"
+    }
+]
