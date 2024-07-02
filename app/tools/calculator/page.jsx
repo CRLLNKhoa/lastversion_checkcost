@@ -537,13 +537,6 @@ function Calculator() {
 
             <p className="flex items-center gap-2 border-t pt-2 border-red-500 w-full">
               <b className="font-semibold text-red-600">Tổng cộng:</b>{" "}
-              {Number(result.elixirRequiredOfExlixirMS.slice(0, -2)) +
-                Number(result.elixirRequiredOfExlixirIN.slice(0, -2)) +
-                Number(result.elixirRequiredOfExlixirDB.slice(0, -2)) +
-                Number(result.elixirRequiredOfExlixirHL.slice(0, -2)) +
-                Number(result.elixirRequiredOfExlixirUP.slice(0, -2)) +
-                Number(result.elixirRequiredOfExlixir.slice(0, -2))}{" "}
-              <img src="/dau.webp" alt="dau" className="w-4 h-4" />
               {result.dayMS + result.dayIN + result.dayDB + result.dayHL + result.dayUP}
               <img src="/day.webp" alt="dau" className="w-4 h-4" />
             </p>
